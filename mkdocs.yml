@@ -1,0 +1,6 @@
+site_name: fujita-test
+
+pages:
+- Home: index.md
+  - first: first.md
+  - second: second.md
