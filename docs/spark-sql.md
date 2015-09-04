@@ -53,6 +53,7 @@ sqlCount: Long = 39365
 | text     | string   |
 | username | string   |
 
+
 カラム”username”でグルーピングし、上位10行を取り出します。つまり、wikiDataの更新者のTop10を抽出します。
 
 以下が実際のSQLになります。
