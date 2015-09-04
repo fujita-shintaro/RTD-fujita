@@ -50,16 +50,16 @@ string
 
 以下が実際のSQLになります。
 
-scala> sqlContext.sql("SELECT username, COUNT(*) AS cnt FROM wikiData WHERE username <> '' GROUP BY username ORDER BY cnt DESC LIMIT 10").collect().foreach(println)
-[Waacstats,2003]
-[Cydebot,949]
-[BattyBot,939]
-[Yobot,890]
-[Addbot,853]
-[Monkbot,668]
-[ChrisGualtieri,438]
-[RjwilmsiBot,387]
-[OccultZone,377]
-[ClueBot NG,353]
-
-scala> 
+     scala> sqlContext.sql("SELECT username, COUNT(*) AS cnt FROM wikiData WHERE username <> '' GROUP BY username ORDER BY cnt DESC LIMIT 10").collect().foreach(println)
+     [Waacstats,2003]
+     [Cydebot,949]
+     [BattyBot,939]
+     [Yobot,890]
+     [Addbot,853]
+     [Monkbot,668]
+     [ChrisGualtieri,438]
+     [RjwilmsiBot,387]
+     [OccultZone,377]
+     [ClueBot NG,353]
+     
+     scala> 
