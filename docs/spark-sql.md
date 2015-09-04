@@ -46,7 +46,6 @@ sqlCount: Long = 39365
 もう少し実践的なSQLを実行してみましょう。wikiDataテーブルは以下のようなフォーマットで構成されています。
 
 | カラム名 | 型       |
-|:---------|:---------|
 | id       | int      |
 | title    | string   |
 | modified | bigint   |
