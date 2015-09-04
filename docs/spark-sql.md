@@ -1,1 +1,1 @@
-# 2. Spark SQL
+Spark SQL
