@@ -2,9 +2,5 @@ Hello World!
 ============
 
 Contents:
-
-.. toctree::
-   :maxdepth: 2   
-
-   first
-   second
+1. [はじめに](first.md)
+2. [second](second.md)
