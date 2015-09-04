@@ -1,7 +1,11 @@
-site_name: fujita-test
+site_name: AMPcamp-jp
 
 pages:
-- Home: index.md
-- first: first.md
-- second: second.md
-
+- 目次: index.md
+- はじめに: introduction.md
+- Spark SQL: spark-sql.md
+- Sparkストリーミング: spark-streaming.md
+- MLib(機械学習): mllib.md
+- GraphX: graphx.md
+- SparkR: sparkr.md
+- パイプラインを使ってイメージ解析: pipeline.md
