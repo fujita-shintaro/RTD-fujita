@@ -1,8 +1,7 @@
 site_name: AMPcamp-jp
 
 pages:
-- 目次: index.md
-- 1. はじめに: introduction.md
+- 1. はじめに: index.md
 - 2. Spark SQL: spark-sql.md
 - 3. Sparkストリーミング: spark-streaming.md
 - 4. MLib(機械学習): mllib.md
