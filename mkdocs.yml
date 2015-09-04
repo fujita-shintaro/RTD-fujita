@@ -1,5 +1,7 @@
 site_name: AMPcamp-jp
 
+repo_url: https://github.com/fujita-shintaro/RTD-fujita
+
 pages:
 - 目次: index.md
 - 1. はじめに: introduction.md
