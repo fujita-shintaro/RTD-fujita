@@ -3,7 +3,7 @@ Spark SQLはSparkの中でも最も新しいコンポーネントであり、SQL
 
 まずSpark Shellを起動します
 
-```python:terminal
+```
 $ cd ${HOME}
 $ SPARK_MEM=4g spark-1.4.1/bin/spark-shell
 ```
