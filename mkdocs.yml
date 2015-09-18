@@ -11,3 +11,4 @@ pages:
 - 5. GraphX: graphx.md
 - 6. SparkR: sparkr.md
 - 7. パイプラインを使ってイメージ解析: pipeline.md
+- Search: ./search.html
